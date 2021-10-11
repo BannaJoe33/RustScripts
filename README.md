@@ -3,11 +3,12 @@ About:
 --------
 !SCRIPT WILL NOT WORK WITHOUT ALL FILES!
 ~ Make sure to download the following files:
+_
 _1. ak.ahk
-2. crosshair.ahk
-3. m2.ahk
-4. dev.ahk
-5. sar.ahk_
+_2. crosshair.ahk
+_3. m2.ahk
+_4. dev.ahk
+_5. sar.ahk
 
 `dev.ahk is the main file which contains the UI and main functionality.`
 
