@@ -18,4 +18,4 @@ Not necessarily the best language for this but it works.
 
 **USE AT YOUR OWN RISK!**
 _This type of software is considered cheats by Facepunch and detectable by easy anti-cheat (EAC)
-I am NOT responsible for any penalties received by facepunch or other related systems/companies._
+I am **NOT** responsible for any penalties received by facepunch or other related systems/companies._
