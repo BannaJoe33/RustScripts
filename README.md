@@ -2,7 +2,7 @@
 About:
 --------
 !SCRIPT WILL NOT WORK WITHOUT ALL FILES!
-Make sure to download the following files:
+~ Make sure to download the following files:
 1. ak.ahk
 2. crosshair.ahk
 3. m2.ahk
