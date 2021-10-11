@@ -10,7 +10,7 @@ About:
 4. dev.ahk
 5. sar.ahk
 
-`dev.ahk is the main file which contains the UI and main functionality.`
+`"dev.ahk" is the main file which contains the UI and main functionality.`
 
 The individual gun scripts are not made by me but everything else is.
 This script is made in ahk.
